@@ -1,0 +1,37 @@
+[2026-02-07 22:35:07] ERROR: Delete Item Error {"error":"Cannot delete or update a parent row: a foreign key constraint fails (`sibm_canteen`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`menu_item_id`) REFERENCES `menu_items` (`id`))"}
+[2026-02-07 22:35:18] ERROR: Delete Item Error {"error":"Cannot delete or update a parent row: a foreign key constraint fails (`sibm_canteen`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`menu_item_id`) REFERENCES `menu_items` (`id`))"}
+[2026-02-07 22:35:28] ERROR: Delete Item Error {"error":"Cannot delete or update a parent row: a foreign key constraint fails (`sibm_canteen`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`menu_item_id`) REFERENCES `menu_items` (`id`))"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:30] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:34] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:35] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:38] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:38] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:38] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:40] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:53:03] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:53:03] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:53:04] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:25] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:25] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:26] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:26] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}

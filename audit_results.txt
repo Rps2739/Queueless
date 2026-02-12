@@ -1,0 +1,79 @@
+﻿Starting Systemic Audit Scan...
+
+Audit Complete. Found 59 potential issues.
+--------------------------------------------------
+[Data Integrity] Timezone Issue (new Date) at app\api\order\route.js:17
+[Hardcoding] Hardcoded String 'Canteen' at app\api\order\route.js:15
+[Observability] Console Logging at app\api\stats\route.js:121
+[Observability] Console Logging at app\api\upload\route.js:40
+[Observability] Console Logging at app\api\vendor\analytics\route.js:161
+[Observability] Console Logging at app\api\vendor\status\route.js:39
+[Observability] Console Logging at app\api\vendor\status\route.js:74
+[Security] Sensitive Data (LocalStorage) at app\login\page.js:14
+[Security] Sensitive Data (LocalStorage) at app\login\page.js:35
+[UX] Missing Trim on Input at app\login\page.js:118
+[UX] Missing Trim on Input at app\login\page.js:133
+[Security] Router Push (Open Redirect potential) at app\login\page.js:16
+[Security] Sensitive Data (LocalStorage) at app\menu\page.js:36
+[Data Integrity] Floating Point Math (reduce sum) at app\menu\page.js:47
+[Data Integrity] Floating Point Math (reduce sum) at app\menu\page.js:48
+[Security] Router Push (Open Redirect potential) at app\menu\page.js:52
+[Security] Router Push (Open Redirect potential) at app\menu\page.js:104
+[Observability] Console Logging at app\orders\page.js:36
+[Security] Sensitive Data (LocalStorage) at app\orders\page.js:12
+[Security] Router Push (Open Redirect potential) at app\orders\page.js:14
+[Security] Router Push (Open Redirect potential) at app\orders\page.js:96
+[UX] Missing Trim on Input at app\register\page.js:39
+[Security] Router Push (Open Redirect potential) at app\register\page.js:28
+[Observability] Console Logging at app\vendor\analytics\page.js:37
+[Security] Sensitive Data (LocalStorage) at app\vendor\analytics\page.js:16
+[UX] Missing Trim on Input at app\vendor\analytics\page.js:112
+[UX] Missing Trim on Input at app\vendor\analytics\page.js:119
+[Security] Router Push (Open Redirect potential) at app\vendor\analytics\page.js:18
+[Observability] Console Logging at app\vendor\dashboard\page.js:44
+[Security] Sensitive Data (LocalStorage) at app\vendor\dashboard\page.js:25
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:232
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:342
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:344
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:345
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:347
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:359
+[UX] Missing Trim on Input at app\vendor\dashboard\page.js:419
+[Security] Router Push (Open Redirect potential) at app\vendor\dashboard\page.js:27
+[Security] Router Push (Open Redirect potential) at app\vendor\dashboard\page.js:97
+[Security] Router Push (Open Redirect potential) at app\vendor\dashboard\page.js:197
+[Security] Sensitive Data (LocalStorage) at app\vendor\login\page.js:25
+[UX] Missing Trim on Input at app\vendor\login\page.js:69
+[UX] Missing Trim on Input at app\vendor\login\page.js:82
+[Security] Router Push (Open Redirect potential) at app\vendor\login\page.js:26
+[UX] Missing Trim on Input at app\vendor\register\page.js:42
+[Security] Router Push (Open Redirect potential) at app\vendor\register\page.js:31
+[Security] Sensitive Data (LocalStorage) at components\Navbar.js:12
+[Security] Router Push (Open Redirect potential) at components\Navbar.js:26
+[Security] Router Push (Open Redirect potential) at components\Navbar.js:128
+[Code Quality] Delete Account Logic (Inline) at components\Navbar.js:124
+[Security] Router Push (Open Redirect potential) at components\VendorNavbar.js:10
+[Observability] Console Logging at system_audit.js:66
+[Observability] Console Logging at system_audit.js:69
+[Observability] Console Logging at system_audit.js:70
+[Observability] Console Logging at system_audit.js:76
+[Observability] Console Logging at system_audit.js:79
+[Hardcoding] Hardcoded String 'Canteen' at system_audit.js:9
+[Hardcoding] Hardcoded String 'Bakery' at system_audit.js:10
+[Security (XSS)] DangerouslySetInnerHTML at system_audit.js:11
+
+Summary of Findings:
+ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé (index)                               Γöé Values Γöé
+Γö£ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö╝ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöñ
+Γöé Timezone Issue (new Date)             Γöé 1      Γöé
+Γöé Hardcoded String 'Canteen'            Γöé 2      Γöé
+Γöé Console Logging                       Γöé 13     Γöé
+Γöé Sensitive Data (LocalStorage)         Γöé 8      Γöé
+Γöé Missing Trim on Input                 Γöé 15     Γöé
+Γöé Router Push (Open Redirect potential) Γöé 15     Γöé
+Γöé Floating Point Math (reduce sum)      Γöé 2      Γöé
+Γöé Delete Account Logic (Inline)         Γöé 1      Γöé
+Γöé Hardcoded String 'Bakery'             Γöé 1      Γöé
+Γöé DangerouslySetInnerHTML               Γöé 1      Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓö┤ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ

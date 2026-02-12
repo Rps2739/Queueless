@@ -1,0 +1,263 @@
+[2026-02-07 14:55:59] INFO: Database connection pool created successfully. 
+[2026-02-07 14:56:12] WARN: Vendor Login Failed {"email":"tetsvendor@test.com"}
+[2026-02-07 14:56:17] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-07 15:08:53] INFO: Database connection pool created successfully. 
+[2026-02-07 15:10:57] INFO: Database connection pool created successfully. 
+[2026-02-07 15:10:57] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:11:00] INFO: Order Status Updated {"orderId":1,"newStatus":"Completed"}
+[2026-02-07 15:11:01] INFO: Order Status Updated {"orderId":2,"newStatus":"Completed"}
+[2026-02-07 15:11:26] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-07 15:11:32] INFO: Processing Order #3 {"userId":1,"itemCount":1,"total":50}
+[2026-02-07 15:11:32] INFO: Order #3 Placed Successfully 
+[2026-02-07 15:11:54] INFO: Order Status Updated {"orderId":3,"newStatus":"Ready"}
+[2026-02-07 15:11:56] INFO: Order Status Updated {"orderId":3,"newStatus":"Completed"}
+[2026-02-07 15:16:36] INFO: Database connection pool created successfully. 
+[2026-02-07 15:17:00] INFO: Processing Order #4 {"userId":1,"itemCount":1,"total":50}
+[2026-02-07 15:17:00] INFO: Order #4 Placed Successfully 
+[2026-02-07 15:17:20] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:17:26] INFO: Order Status Updated {"orderId":4,"newStatus":"Ready"}
+[2026-02-07 15:17:33] INFO: Order Status Updated {"orderId":4,"newStatus":"Completed"}
+[2026-02-07 15:20:51] INFO: Database connection pool created successfully. 
+[2026-02-07 15:20:51] WARN: Vendor Login Failed {"email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:20:58] WARN: Vendor Login Failed {"email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:21:04] WARN: Vendor Login Failed {"email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:21:09] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:21:44] INFO: Vendor Logged In {"shop":"Bakery","email":"bakery@sibm.edu.in"}
+[2026-02-07 15:21:54] INFO: Processing Order #5 {"userId":1,"itemCount":1,"total":90}
+[2026-02-07 15:21:54] INFO: Order #5 Placed Successfully 
+[2026-02-07 15:21:57] INFO: Order Status Updated {"orderId":5,"newStatus":"Ready"}
+[2026-02-07 15:22:02] INFO: Order Status Updated {"orderId":5,"newStatus":"Completed"}
+[2026-02-07 15:23:17] INFO: Processing Order #6 {"userId":1,"itemCount":1,"total":50}
+[2026-02-07 15:23:17] INFO: Order #6 Placed Successfully 
+[2026-02-07 15:23:38] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 15:23:40] INFO: Order Status Updated {"orderId":6,"newStatus":"Ready"}
+[2026-02-07 15:23:45] INFO: Order Status Updated {"orderId":6,"newStatus":"Completed"}
+[2026-02-07 15:24:40] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-07 15:24:50] INFO: Processing Order #7 {"userId":1,"itemCount":1,"total":50}
+[2026-02-07 15:24:50] INFO: Order #7 Placed Successfully 
+[2026-02-07 15:25:08] INFO: Order Status Updated {"orderId":7,"newStatus":"Ready"}
+[2026-02-07 15:25:17] INFO: Order Status Updated {"orderId":7,"newStatus":"Completed"}
+[2026-02-07 19:45:05] INFO: Database connection pool created successfully. 
+[2026-02-07 19:45:05] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-07 19:47:38] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-07 19:48:59] INFO: Item Added to Inventory {"item":"mango juice","shop":"testvendor"}
+[2026-02-07 19:49:18] INFO: Item Deleted {"itemId":18}
+[2026-02-07 19:51:34] INFO: Item Added to Inventory {"item":"Mango Juice","shop":"testvendor"}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":29}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":28}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":27}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":26}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":25}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":24}
+[2026-02-07 19:51:54] INFO: Stock Updated {"itemId":19,"newStock":23}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":22}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":21}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":20}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":19}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":18}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":17}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":16}
+[2026-02-07 19:51:55] INFO: Stock Updated {"itemId":19,"newStock":15}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":14}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":13}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":12}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":11}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":10}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":9}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":8}
+[2026-02-07 19:51:56] INFO: Stock Updated {"itemId":19,"newStock":7}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":6}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":5}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":4}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":3}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":2}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":1}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:51:57] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:51:58] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:51:58] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:51:58] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:51:58] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:51:58] INFO: Stock Updated {"itemId":19,"newStock":0}
+[2026-02-07 19:52:08] INFO: Stock Updated {"itemId":19,"newStock":1}
+[2026-02-07 19:52:25] INFO: Item Deleted {"itemId":19}
+[2026-02-07 20:05:24] INFO: Database connection pool created successfully. 
+[2026-02-07 20:05:53] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-07 20:06:14] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 20:06:31] INFO: Processing Order #8 {"userId":1,"itemCount":1,"total":50}
+[2026-02-07 20:06:31] INFO: Order #8 Placed Successfully 
+[2026-02-07 20:06:46] INFO: Order Status Updated {"orderId":8,"newStatus":"Ready"}
+[2026-02-07 20:06:50] INFO: Order Status Updated {"orderId":8,"newStatus":"Completed"}
+[2026-02-07 20:07:25] INFO: Item Added to Inventory {"item":"Chicken Grilled Sandwich","shop":"Cafeteria"}
+[2026-02-07 20:07:40] INFO: Stock Updated {"itemId":20,"newStock":19}
+[2026-02-07 20:07:40] INFO: Stock Updated {"itemId":20,"newStock":18}
+[2026-02-07 20:07:40] INFO: Stock Updated {"itemId":20,"newStock":17}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":16}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":15}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":14}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":13}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":12}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":11}
+[2026-02-07 20:07:41] INFO: Stock Updated {"itemId":20,"newStock":10}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":9}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":8}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":7}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":6}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":5}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":4}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":3}
+[2026-02-07 20:07:42] INFO: Stock Updated {"itemId":20,"newStock":2}
+[2026-02-07 20:07:43] INFO: Stock Updated {"itemId":20,"newStock":1}
+[2026-02-07 20:08:12] INFO: Processing Order #9 {"userId":1,"itemCount":1,"total":65}
+[2026-02-07 20:08:12] INFO: Order #9 Placed Successfully 
+[2026-02-07 20:08:31] INFO: Order Status Updated {"orderId":9,"newStatus":"Completed"}
+[2026-02-07 22:17:51] INFO: Database connection pool created successfully. 
+[2026-02-07 22:18:18] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-07 22:18:32] INFO: Processing Order #10 {"userId":1,"itemCount":1,"total":50}
+[2026-02-07 22:18:32] INFO: Order #10 Placed Successfully 
+[2026-02-07 22:18:49] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 22:19:00] INFO: Order Status Updated {"orderId":10,"newStatus":"Ready"}
+[2026-02-07 22:19:08] INFO: Order Status Updated {"orderId":10,"newStatus":"Completed"}
+[2026-02-07 22:19:24] INFO: Stock Updated {"itemId":20,"newStock":1}
+[2026-02-07 22:22:18] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-07 22:28:58] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 22:35:07] ERROR: Delete Item Error {"error":"Cannot delete or update a parent row: a foreign key constraint fails (`sibm_canteen`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`menu_item_id`) REFERENCES `menu_items` (`id`))"}
+[2026-02-07 22:35:18] ERROR: Delete Item Error {"error":"Cannot delete or update a parent row: a foreign key constraint fails (`sibm_canteen`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`menu_item_id`) REFERENCES `menu_items` (`id`))"}
+[2026-02-07 22:35:28] ERROR: Delete Item Error {"error":"Cannot delete or update a parent row: a foreign key constraint fails (`sibm_canteen`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`menu_item_id`) REFERENCES `menu_items` (`id`))"}
+[2026-02-07 22:40:07] INFO: Database connection pool created successfully. 
+[2026-02-07 22:40:24] WARN: Vendor Login Failed {"email":"testvendor@test.com"}
+[2026-02-07 22:40:59] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-07 22:41:19] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 22:41:23] INFO: Item Soft-Deleted {"itemId":20}
+[2026-02-07 22:51:42] INFO: Database connection pool created successfully. 
+[2026-02-07 22:51:54] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 23:16:29] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-07 23:16:47] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-07 23:27:48] INFO: Database connection pool created successfully. 
+[2026-02-07 23:38:10] INFO: Database connection pool created successfully. 
+[2026-02-07 23:44:48] INFO: Database connection pool created successfully. 
+[2026-02-07 23:45:32] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-08 19:47:34] INFO: Database connection pool created successfully. 
+[2026-02-08 20:34:14] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-08 21:32:51] INFO: Order Status Updated {"orderId":28,"newStatus":"Ready"}
+[2026-02-08 21:32:53] INFO: Order Status Updated {"orderId":28,"newStatus":"Completed"}
+[2026-02-08 21:36:16] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-08 21:41:38] INFO: Database connection pool created successfully. 
+[2026-02-09 00:09:13] INFO: Database connection pool created successfully. 
+[2026-02-09 05:12:35] INFO: Database connection pool created successfully. 
+[2026-02-09 13:07:23] INFO: Database connection pool created successfully. 
+[2026-02-09 19:38:08] INFO: Database connection pool created successfully. 
+[2026-02-09 19:38:37] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-09 19:43:11] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-09 19:44:45] INFO: Processing Order #39 (CAF-09-001) {"userId":1,"itemCount":1,"total":360}
+[2026-02-09 19:44:45] INFO: Order #39 (CAF-09-001) Placed Successfully 
+[2026-02-09 19:45:21] INFO: Processing Order #40 (CAF-09-002) {"userId":1,"itemCount":1,"total":50}
+[2026-02-09 19:45:21] INFO: Order #40 (CAF-09-002) Placed Successfully 
+[2026-02-09 20:11:46] INFO: Processing Order #41 (CAF-09-003) {"userId":1,"itemCount":1,"total":50}
+[2026-02-09 20:11:46] INFO: Order #41 (CAF-09-003) Placed Successfully 
+[2026-02-09 20:12:00] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-09 20:12:04] INFO: Order Status Updated {"orderId":39,"newStatus":"Ready"}
+[2026-02-09 20:12:06] INFO: Order Status Updated {"orderId":40,"newStatus":"Ready"}
+[2026-02-09 20:12:07] INFO: Order Status Updated {"orderId":41,"newStatus":"Ready"}
+[2026-02-09 20:12:07] INFO: Order Status Updated {"orderId":41,"newStatus":"Completed"}
+[2026-02-09 20:12:08] INFO: Order Status Updated {"orderId":40,"newStatus":"Completed"}
+[2026-02-09 20:12:09] INFO: Order Status Updated {"orderId":39,"newStatus":"Completed"}
+[2026-02-09 20:14:15] INFO: Processing Order #42 (CAF-09-004) {"userId":1,"itemCount":1,"total":50}
+[2026-02-09 20:14:15] INFO: Order #42 (CAF-09-004) Placed Successfully 
+[2026-02-09 20:14:53] INFO: Order Status Updated {"orderId":42,"newStatus":"Ready"}
+[2026-02-09 20:15:00] INFO: Order Status Updated {"orderId":42,"newStatus":"Completed"}
+[2026-02-09 22:03:09] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-09 22:08:52] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-09 22:09:05] INFO: Processing Order #43 (CAF-09-005) {"userId":1,"itemCount":1,"total":40}
+[2026-02-09 22:09:05] INFO: Order #43 (CAF-09-005) Placed Successfully 
+[2026-02-09 22:09:16] INFO: Order Status Updated {"orderId":43,"newStatus":"Ready"}
+[2026-02-09 22:09:20] INFO: Order Status Updated {"orderId":43,"newStatus":"Completed"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:28] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:29] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:30] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:34] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:35] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:36] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:38] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:38] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:38] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:39] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:52:40] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:53:03] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:53:03] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:53:04] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:25] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:25] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:26] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-09 23:54:26] ERROR: Update Stock Error {"error":"Bind parameters must not contain undefined. To pass SQL NULL specify JS null"}
+[2026-02-10 00:02:27] INFO: Database connection pool created successfully. 
+[2026-02-10 00:02:33] INFO: Stock Updated {"itemId":12,"newStock":1}
+[2026-02-10 00:02:33] INFO: Stock Updated {"itemId":12,"newStock":2}
+[2026-02-10 00:02:33] INFO: Stock Updated {"itemId":12,"newStock":3}
+[2026-02-10 00:02:34] INFO: Stock Updated {"itemId":12,"newStock":4}
+[2026-02-10 00:02:34] INFO: Stock Updated {"itemId":12,"newStock":5}
+[2026-02-10 00:02:34] INFO: Stock Updated {"itemId":12,"newStock":6}
+[2026-02-10 00:02:34] INFO: Stock Updated {"itemId":12,"newStock":7}
+[2026-02-10 00:02:36] INFO: Stock Updated {"itemId":12,"newStock":8}
+[2026-02-10 00:02:36] INFO: Stock Updated {"itemId":12,"newStock":9}
+[2026-02-10 00:10:11] INFO: Processing Order #44 (CAF-10-006) {"userId":1,"itemCount":2,"total":170}
+[2026-02-10 00:10:11] INFO: Order #44 (CAF-10-006) Placed Successfully 
+[2026-02-10 00:10:28] INFO: Order Status Updated {"orderId":44,"newStatus":"Ready"}
+[2026-02-10 00:10:30] INFO: Order Status Updated {"orderId":44,"newStatus":"Completed"}
+[2026-02-10 02:24:17] INFO: Processing Order #45 (BAK-10-007) {"userId":1,"itemCount":1,"total":40}
+[2026-02-10 02:24:17] INFO: Order #45 (BAK-10-007) Placed Successfully 
+[2026-02-10 02:24:48] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-10 02:24:58] INFO: Vendor Logged In {"shop":"Bakery","email":"bakery@sibm.edu.in"}
+[2026-02-10 02:25:04] INFO: Order Status Updated {"orderId":45,"newStatus":"Ready"}
+[2026-02-10 02:25:11] INFO: Order Status Updated {"orderId":45,"newStatus":"Completed"}
+[2026-02-12 01:13:39] INFO: Database connection pool created successfully. 
+[2026-02-12 01:14:12] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-12 01:15:48] WARN: Vendor Login Failed {"email":"cafeteria@sibm.edu.in"}
+[2026-02-12 01:15:53] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-12 01:16:43] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-12 01:17:20] INFO: Item Added to Inventory {"item":"av","shop":"testvendor"}
+[2026-02-12 01:17:28] INFO: Item Soft-Deleted {"itemId":37}
+[2026-02-12 01:20:53] INFO: Database connection pool created successfully. 
+[2026-02-12 01:27:10] INFO: Database connection pool created successfully. 
+[2026-02-12 01:27:10] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-12 01:27:35] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-12 14:14:44] INFO: Database connection pool created successfully. 
+[2026-02-12 14:15:23] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-12 14:15:40] WARN: Vendor Login Failed {"email":"test@sibm.edu.in"}
+[2026-02-12 14:15:45] WARN: Vendor Login Failed {"email":"test@sibm.edu.in"}
+[2026-02-12 14:15:52] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-12 14:17:32] INFO: Processing Order #46 (CAF-12-001) {"userId":1,"itemCount":1,"total":50}
+[2026-02-12 14:17:32] INFO: Order #46 (CAF-12-001) Placed Successfully 
+[2026-02-12 14:17:45] INFO: Order Status Updated {"orderId":46,"newStatus":"Ready"}
+[2026-02-12 14:17:59] INFO: Processing Order #47 (BAK-12-002) {"userId":1,"itemCount":1,"total":40}
+[2026-02-12 14:17:59] INFO: Order #47 (BAK-12-002) Placed Successfully 
+[2026-02-12 14:18:10] INFO: Order Status Updated {"orderId":46,"newStatus":"Completed"}
+[2026-02-12 14:19:05] INFO: Stock Updated {"itemId":12,"newStock":8}
+[2026-02-12 14:19:05] INFO: Stock Updated {"itemId":12,"newStock":7}
+[2026-02-12 14:19:05] INFO: Stock Updated {"itemId":12,"newStock":6}
+[2026-02-12 14:19:06] INFO: Stock Updated {"itemId":12,"newStock":5}
+[2026-02-12 14:19:06] INFO: Stock Updated {"itemId":12,"newStock":4}
+[2026-02-12 14:19:06] INFO: Stock Updated {"itemId":12,"newStock":3}
+[2026-02-12 14:19:06] INFO: Stock Updated {"itemId":12,"newStock":2}
+[2026-02-12 14:19:06] INFO: Stock Updated {"itemId":12,"newStock":1}
+[2026-02-12 14:19:06] INFO: Stock Updated {"itemId":12,"newStock":0}
+[2026-02-12 14:19:07] INFO: Stock Updated {"itemId":12,"newStock":0}
+[2026-02-12 14:19:07] INFO: Stock Updated {"itemId":12,"newStock":1}
+[2026-02-12 14:19:13] INFO: Stock Updated {"itemId":12,"newStock":0}
+[2026-02-12 14:19:22] INFO: Stock Updated {"itemId":12,"newStock":1}
