@@ -261,3 +261,52 @@
 [2026-02-12 14:19:07] INFO: Stock Updated {"itemId":12,"newStock":1}
 [2026-02-12 14:19:13] INFO: Stock Updated {"itemId":12,"newStock":0}
 [2026-02-12 14:19:22] INFO: Stock Updated {"itemId":12,"newStock":1}
+[2026-02-13 15:37:34] INFO: Database connection pool created successfully. 
+[2026-02-13 15:44:40] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-13 15:44:56] WARN: Login Failed: Invalid Credentials {"email":"test@sibm.edu.in"}
+[2026-02-13 15:45:06] WARN: Login Failed: Invalid Credentials {"email":"test@sibm.edu.in"}
+[2026-02-13 15:45:10] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-13 15:45:45] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-13 15:46:00] INFO: Processing Order #48 (CAF-13-001) {"userId":1,"itemCount":1,"total":50}
+[2026-02-13 15:46:00] INFO: Order #48 (CAF-13-001) Placed Successfully 
+[2026-02-13 15:46:15] INFO: Order Status Updated {"orderId":48,"newStatus":"Ready"}
+[2026-02-13 15:46:20] INFO: Order Status Updated {"orderId":48,"newStatus":"Completed"}
+[2026-02-19 19:46:06] INFO: Database connection pool created successfully. 
+[2026-02-19 19:47:49] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-19 19:48:26] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-19 19:49:21] INFO: Processing Order #49 (CAF-19-001) {"userId":1,"itemCount":1,"total":90}
+[2026-02-19 19:49:21] INFO: Order #49 (CAF-19-001) Placed Successfully 
+[2026-02-19 19:49:49] INFO: Order Status Updated {"orderId":49,"newStatus":"Ready"}
+[2026-02-19 19:49:56] INFO: Order Status Updated {"orderId":49,"newStatus":"Completed"}
+[2026-02-19 19:51:03] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-19 19:54:40] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-19 19:55:52] INFO: Database connection pool created successfully. 
+[2026-02-19 20:20:07] INFO: Database connection pool created successfully. 
+[2026-02-19 20:20:57] INFO: Processing Order #50 (CAF-19-002) {"userId":1,"itemCount":1,"total":50}
+[2026-02-19 20:20:57] INFO: Order #50 (CAF-19-002) Placed Successfully 
+[2026-02-19 20:21:24] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-19 20:21:29] INFO: Order Status Updated {"orderId":50,"newStatus":"Ready"}
+[2026-02-19 20:21:35] INFO: Order Status Updated {"orderId":50,"newStatus":"Completed"}
+[2026-02-19 20:50:53] INFO: Database connection pool created successfully. 
+[2026-02-19 20:51:56] INFO: Student Logged In {"userId":1,"email":"test@sibm.edu.in"}
+[2026-02-19 20:52:15] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-19 20:53:28] INFO: Stock Updated {"itemId":12,"newStock":1}
+[2026-02-19 20:55:00] INFO: Processing Order #51 (CAF-19-003) {"userId":1,"itemCount":1,"total":50}
+[2026-02-19 20:55:00] INFO: Order #51 (CAF-19-003) Placed Successfully 
+[2026-02-19 20:55:11] INFO: Order Status Updated {"orderId":51,"newStatus":"Ready"}
+[2026-02-19 20:55:15] INFO: Order Status Updated {"orderId":51,"newStatus":"Completed"}
+[2026-02-20 09:28:23] INFO: Database connection pool created successfully. 
+[2026-02-21 17:08:21] INFO: Database connection pool created successfully. 
+[2026-02-21 17:11:57] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-02-21 17:12:59] INFO: Vendor Logged In {"shop":"Cafeteria","email":"cafeteria@sibm.edu.in"}
+[2026-02-21 17:13:39] INFO: Processing Order #52 (CAF-21-001) {"userId":1,"itemCount":1,"total":50}
+[2026-02-21 17:13:39] INFO: Order #52 (CAF-21-001) Placed Successfully 
+[2026-02-21 17:14:00] INFO: Order Status Updated {"orderId":52,"newStatus":"Ready"}
+[2026-02-21 17:14:16] INFO: Order Status Updated {"orderId":52,"newStatus":"Completed"}
+[2026-04-16 00:35:33] INFO: Database connection pool created successfully. 
+[2026-05-13 21:21:18] INFO: Database connection pool created successfully. 
+[2026-06-09 19:16:36] INFO: Database connection pool created successfully. 
+[2026-06-10 00:16:28] INFO: Database connection pool created successfully. 
+[2026-06-10 00:17:37] INFO: Vendor Logged In {"shop":"testvendor","email":"testvendor@test.com"}
+[2026-06-19 17:57:03] INFO: Database connection pool created successfully. 
+[2026-06-26 21:46:49] INFO: Database connection pool created successfully. 
